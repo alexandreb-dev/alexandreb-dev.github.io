@@ -1,0 +1,8 @@
+title: Alexandre B.
+description: Independent developer — apps, privacy policy and terms
+url: https://alexandreb.dev
+lang: pt-BR
+markdown: kramdown
+# GitHub Pages serves privacy.html at /privacy, matching the URLs given to Google and Meta
+exclude:
+  - README.md
